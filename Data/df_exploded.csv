@@ -1,135 +1,135 @@
-title,genres,episodes,duration_per_episode,score,year,studios,Q_views,minutes_per_episode,total_watch_minutes
-Dragon Ball,Action,153,24 min per ep,7.98,1986,['Toei Animation'],1,24,3672
-Dragon Ball,Adventure,153,24 min per ep,7.98,1986,['Toei Animation'],1,24,3672
-Dragon Ball,Comedy,153,24 min per ep,7.98,1986,['Toei Animation'],1,24,3672
-Dragon Ball,Fantasy,153,24 min per ep,7.98,1986,['Toei Animation'],1,24,3672
-Pokemon,Action,276,24 min per ep,7.41,1997,['OLM'],1,24,6624
-Pokemon,Adventure,276,24 min per ep,7.41,1997,['OLM'],1,24,6624
-Pokemon,Comedy,276,24 min per ep,7.41,1997,['OLM'],1,24,6624
-Pokemon,Fantasy,276,24 min per ep,7.41,1997,['OLM'],1,24,6624
-Bishoujo Senshi Sailor Moon,Romance,46,24 min per ep,7.74,1992,['Toei Animation'],1,24,1104
-InuYasha,Action,167,24 min per ep,7.87,2000,['Sunrise'],7,24,28056
-InuYasha,Adventure,167,24 min per ep,7.87,2000,['Sunrise'],7,24,28056
-InuYasha,Fantasy,167,24 min per ep,7.87,2000,['Sunrise'],7,24,28056
-InuYasha,Romance,167,24 min per ep,7.87,2000,['Sunrise'],7,24,28056
-Death Note,Supernatural,37,23 min per ep,8.62,2006,['Madhouse'],2,23,1702
-Death Note,Suspense,37,23 min per ep,8.62,2006,['Madhouse'],2,23,1702
-Kakegurui,Drama,12,24 min per ep,7.22,2017,['MAPPA'],1,24,288
-Kakegurui,Mystery,12,24 min per ep,7.22,2017,['MAPPA'],1,24,288
-Kakegurui,Suspense,12,24 min per ep,7.22,2017,['MAPPA'],1,24,288
-Hunter x Hunter (2011),Action,148,23 min per ep,9.03,2011,['Madhouse'],2,23,6808
-Hunter x Hunter (2011),Adventure,148,23 min per ep,9.03,2011,['Madhouse'],2,23,6808
-Hunter x Hunter (2011),Fantasy,148,23 min per ep,9.03,2011,['Madhouse'],2,23,6808
-Hunter x Hunter Movie 2: The Last Mission,Action,1,1 hr 37 min,7.28,2013,['Madhouse'],1,97,97
-Hunter x Hunter Movie 2: The Last Mission,Adventure,1,1 hr 37 min,7.28,2013,['Madhouse'],1,97,97
-Hunter x Hunter Movie 2: The Last Mission,Fantasy,1,1 hr 37 min,7.28,2013,['Madhouse'],1,97,97
-Hunter x Hunter Movie 1: Phantom Rouge,Action,1,1 hr 36 min,7.28,2013,['Madhouse'],1,96,96
-Hunter x Hunter Movie 1: Phantom Rouge,Adventure,1,1 hr 36 min,7.28,2013,['Madhouse'],1,96,96
-Hunter x Hunter Movie 1: Phantom Rouge,Fantasy,1,1 hr 36 min,7.28,2013,['Madhouse'],1,96,96
-Shingeki no Kyojin,Action,25,24 min per ep,8.56,2013,['Wit Studio'],2,24,1200
-Shingeki no Kyojin,Award Winning,25,24 min per ep,8.56,2013,['Wit Studio'],2,24,1200
-Shingeki no Kyojin,Drama,25,24 min per ep,8.56,2013,['Wit Studio'],2,24,1200
-Shingeki no Kyojin,Suspense,25,24 min per ep,8.56,2013,['Wit Studio'],2,24,1200
-Yakusoku no Neverland,Mystery,12,22 min per ep,8.48,2019,['CloverWorks'],1,22,264
-Yakusoku no Neverland,Suspense,12,22 min per ep,8.48,2019,['CloverWorks'],1,22,264
-Kimetsu no Yaiba,Action,26,23 min per ep,8.43,2019,['ufotable'],1,23,598
-Kimetsu no Yaiba,Award Winning,26,23 min per ep,8.43,2019,['ufotable'],1,23,598
-Kimetsu no Yaiba,Supernatural,26,23 min per ep,8.43,2019,['ufotable'],1,23,598
-Hanyou no Yashahime: Sengoku Otogizoushi,Action,24,24 min per ep,6.69,2020,['Sunrise'],1,24,576
-Hanyou no Yashahime: Sengoku Otogizoushi,Adventure,24,24 min per ep,6.69,2020,['Sunrise'],1,24,576
-Hanyou no Yashahime: Sengoku Otogizoushi,Fantasy,24,24 min per ep,6.69,2020,['Sunrise'],1,24,576
-Evangelion: 3.0 (-46h),Sci-Fi,1,10 min,7.16,2021,['Khara'],2,10,20
-Boku no Hero Academia,Action,13,24 min per ep,7.84,2016,['Bones'],1,24,312
-Dr. Stone,Adventure,24,24 min per ep,8.26,2019,['TMS Entertainment'],2,24,1152
-Dr. Stone,Comedy,24,24 min per ep,8.26,2019,['TMS Entertainment'],2,24,1152
-Dr. Stone,Sci-Fi,24,24 min per ep,8.26,2019,['TMS Entertainment'],2,24,1152
-Jujutsu Kaisen,Action,24,23 min per ep,8.55,2020,['MAPPA'],2,23,1104
-Jujutsu Kaisen,Award Winning,24,23 min per ep,8.55,2020,['MAPPA'],2,23,1104
-Jujutsu Kaisen,Supernatural,24,23 min per ep,8.55,2020,['MAPPA'],2,23,1104
-Shigatsu wa Kimi no Uso,Drama,22,22 min per ep,8.64,2014,['A-1 Pictures'],3,22,1452
-Shigatsu wa Kimi no Uso,Romance,22,22 min per ep,8.64,2014,['A-1 Pictures'],3,22,1452
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,Comedy,12,25 min per ep,8.4,2019,['A-1 Pictures'],2,25,600
-Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,Romance,12,25 min per ep,8.4,2019,['A-1 Pictures'],2,25,600
-Horimiya,Romance,13,23 min per ep,8.19,2021,['CloverWorks'],2,23,598
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,Drama,13,24 min per ep,8.23,2018,['CloverWorks'],3,24,936
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,Romance,13,24 min per ep,8.23,2018,['CloverWorks'],3,24,936
-Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,Supernatural,13,24 min per ep,8.23,2018,['CloverWorks'],3,24,936
-Tonikaku Kawaii,Comedy,12,23 min per ep,7.85,2020,['Seven Arcs'],1,23,276
-Tonikaku Kawaii,Romance,12,23 min per ep,7.85,2020,['Seven Arcs'],1,23,276
-Koe no Katachi,Award Winning,1,2 hr 10 min,8.93,2016,['Kyoto Animation'],2,130,260
-Koe no Katachi,Drama,1,2 hr 10 min,8.93,2016,['Kyoto Animation'],2,130,260
-Kimi no Na wa.,Award Winning,1,1 hr 46 min,8.83,2018,['CoMix Wave Films'],3,106,318
-Kimi no Na wa.,Drama,1,1 hr 46 min,8.83,2018,['CoMix Wave Films'],3,106,318
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e,Drama,12,24 min per ep,7.85,2017,['Lerche'],1,24,288
-Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e,Suspense,12,24 min per ep,7.85,2017,['Lerche'],1,24,288
-Mahoutsukai no Yome,Drama,24,24 min per ep,8.05,2017,['Wit Studio'],2,24,1152
-Mahoutsukai no Yome,Fantasy,24,24 min per ep,8.05,2017,['Wit Studio'],2,24,1152
-Mahoutsukai no Yome,Romance,24,24 min per ep,8.05,2017,['Wit Studio'],2,24,1152
-Tensei shitara Slime Datta Ken,Action,24,23 min per ep,8.14,2018,['8bit'],1,23,552
-Tensei shitara Slime Datta Ken,Comedy,24,23 min per ep,8.14,2018,['8bit'],1,23,552
-Tensei shitara Slime Datta Ken,Fantasy,24,23 min per ep,8.14,2018,['8bit'],1,23,552
-Violet Evergarden,Drama,13,24 min per ep,8.68,2018,['Kyoto Animation'],2,24,624
-Wotaku ni Koi wa Muzukashii,Comedy,11,22 min per ep,7.92,2018,['A-1 Pictures'],3,22,726
-Wotaku ni Koi wa Muzukashii,Romance,11,22 min per ep,7.92,2018,['A-1 Pictures'],3,22,726
-Tsurezure Children,Comedy,12,12 min per ep,7.54,2017,['Studio Gokumi'],1,12,144
-Tsurezure Children,Romance,12,12 min per ep,7.54,2017,['Studio Gokumi'],1,12,144
-"Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",Action,12,23 min per ep,6.12,2024,['Studio Polon'],1,23,276
-"Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",Adventure,12,23 min per ep,6.12,2024,['Studio Polon'],1,23,276
-"Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",Fantasy,12,23 min per ep,6.12,2024,['Studio Polon'],1,23,276
-Dororo,Action,24,24 min per ep,8.25,2019,"['Tezuka Productions', 'MAPPA']",2,24,1152
-Dororo,Adventure,24,24 min per ep,8.25,2019,"['Tezuka Productions', 'MAPPA']",2,24,1152
-Dororo,Fantasy,24,24 min per ep,8.25,2019,"['Tezuka Productions', 'MAPPA']",2,24,1152
-"Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",Action,12,23 min per ep,6.85,2023,['SILVER LINK.'],1,23,276
-"Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",Fantasy,12,23 min per ep,6.85,2023,['SILVER LINK.'],1,23,276
-Rokudenashi Majutsu Koushi to Akashic Records,Action,12,24 min per ep,7.11,2017,['LIDENFILMS'],1,24,288
-Rokudenashi Majutsu Koushi to Akashic Records,Fantasy,12,24 min per ep,7.11,2017,['LIDENFILMS'],1,24,288
-Charlotte,Drama,13,24 min per ep,7.75,2015,['P.A. Works'],1,24,312
-Akame ga Kill!,Action,24,23 min per ep,7.47,2014,['White Fox'],1,23,552
-Akame ga Kill!,Fantasy,24,23 min per ep,7.47,2014,['White Fox'],1,23,552
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,Drama,11,22 min per ep,8.29,2011,['A-1 Pictures'],1,22,242
-Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,Supernatural,11,22 min per ep,8.29,2011,['A-1 Pictures'],1,22,242
-Jaku-Chara Tomozaki-kun,Drama,12,23 min per ep,7.11,2021,['Project No.9'],1,23,276
-Jaku-Chara Tomozaki-kun,Romance,12,23 min per ep,7.11,2021,['Project No.9'],1,23,276
-Kuzu no Honkai,Drama,12,22 min per ep,7.09,2017,['Lerche'],1,22,264
-Kuzu no Honkai,Romance,12,22 min per ep,7.09,2017,['Lerche'],1,22,264
-Ao Haru Ride,Romance,12,23 min per ep,7.63,2014,['Production I.G'],1,23,276
-Koi to Yobu ni wa Kimochi Warui,Comedy,12,23 min per ep,7.12,2021,['Nomad'],1,23,276
-Koi to Yobu ni wa Kimochi Warui,Romance,12,23 min per ep,7.12,2021,['Nomad'],1,23,276
-Hige wo Soru. Soshite Joshikousei wo Hirou.,Drama,13,23 min per ep,7.27,2021,['Project No.9'],1,23,299
-Hige wo Soru. Soshite Joshikousei wo Hirou.,Romance,13,23 min per ep,7.27,2021,['Project No.9'],1,23,299
-Ballroom e Youkoso,Sports,24,24 min per ep,8.18,2017,['Production I.G'],2,24,1152
-Enen no Shouboutai,Action,24,23 min per ep,7.72,2019,['David Production'],1,23,552
-Enen no Shouboutai,Fantasy,24,23 min per ep,7.72,2019,['David Production'],1,23,552
-Enen no Shouboutai,Sci-Fi,24,23 min per ep,7.72,2019,['David Production'],1,23,552
-Enen no Shouboutai: Ni no Shou,Action,24,24 min per ep,7.83,2020,['David Production'],1,24,576
-Enen no Shouboutai: Ni no Shou,Fantasy,24,24 min per ep,7.83,2020,['David Production'],1,24,576
-Enen no Shouboutai: Ni no Shou,Sci-Fi,24,24 min per ep,7.83,2020,['David Production'],1,24,576
-Psycho-Pass,Action,22,23 min per ep,8.33,2012,['Production I.G'],1,23,506
-Psycho-Pass,Mystery,22,23 min per ep,8.33,2012,['Production I.G'],1,23,506
-Psycho-Pass,Sci-Fi,22,23 min per ep,8.33,2012,['Production I.G'],1,23,506
-Psycho-Pass,Suspense,22,23 min per ep,8.33,2012,['Production I.G'],1,23,506
-ReLIFE,Drama,13,23 min per ep,7.96,2016,['TMS Entertainment'],2,23,598
-ReLIFE,Romance,13,23 min per ep,7.96,2016,['TMS Entertainment'],2,23,598
-Yuri!!! on Ice,Award Winning,12,23 min per ep,7.9,2016,['MAPPA'],3,23,828
-Yuri!!! on Ice,Sports,12,23 min per ep,7.9,2016,['MAPPA'],3,23,828
-Banana Fish,Action,24,22 min per ep,8.46,2018,['MAPPA'],4,22,2112
-Banana Fish,Adventure,24,22 min per ep,8.46,2018,['MAPPA'],4,22,2112
-Banana Fish,Drama,24,22 min per ep,8.46,2018,['MAPPA'],4,22,2112
-Banana Fish,Suspense,24,22 min per ep,8.46,2018,['MAPPA'],4,22,2112
-Orange,Drama,13,24 min per ep,7.63,2016,['Telecom Animation Film'],2,24,624
-Orange,Romance,13,24 min per ep,7.63,2016,['Telecom Animation Film'],2,24,624
-Orange,Sci-Fi,13,24 min per ep,7.63,2016,['Telecom Animation Film'],2,24,624
-Suki tte Ii na yo.,Drama,13,23 min per ep,7.39,2012,['Zexcs'],1,23,299
-Suki tte Ii na yo.,Romance,13,23 min per ep,7.39,2012,['Zexcs'],1,23,299
-Itsudatte Bokura no Koi wa 10 cm Datta.,Drama,6,23 min per ep,7.45,2017,['Lay-duce'],2,23,276
-Itsudatte Bokura no Koi wa 10 cm Datta.,Romance,6,23 min per ep,7.45,2017,['Lay-duce'],2,23,276
-Sono Bisque Doll wa Koi wo Suru,Romance,12,23 min per ep,8.15,2022,['CloverWorks'],1,23,276
-Boku dake ga Inai Machi,Mystery,12,23 min per ep,8.3,2016,['A-1 Pictures'],2,23,552
-Boku dake ga Inai Machi,Suspense,12,23 min per ep,8.3,2016,['A-1 Pictures'],2,23,552
-Tonari no Kaibutsu-kun,Comedy,13,24 min per ep,7.45,2012,"[""Brain's Base""]",1,24,312
-Tonari no Kaibutsu-kun,Romance,13,24 min per ep,7.45,2012,"[""Brain's Base""]",1,24,312
-Ansatsu Kyoushitsu,Action,22,23 min per ep,8.07,2015,['Lerche'],1,23,506
-Ansatsu Kyoushitsu,Comedy,22,23 min per ep,8.07,2015,['Lerche'],1,23,506
-Koroshi Ai,Action,12,23 min per ep,6.9,2022,['Platinum Vision'],1,23,276
-Koroshi Ai,Romance,12,23 min per ep,6.9,2022,['Platinum Vision'],1,23,276
-Haikyuu!!,Sports,25,24 min per ep,8.44,2014,['Production I.G'],3,24,1800
+title,genres,episodes,duration_per_episode,score,year,studios,Q_views,minutes_per_episode
+Dragon Ball,Action,153,24 min per ep,7.98,1986,['Toei Animation'],1,24
+Dragon Ball,Adventure,153,24 min per ep,7.98,1986,['Toei Animation'],1,24
+Dragon Ball,Comedy,153,24 min per ep,7.98,1986,['Toei Animation'],1,24
+Dragon Ball,Fantasy,153,24 min per ep,7.98,1986,['Toei Animation'],1,24
+Pokemon,Action,276,24 min per ep,7.41,1997,['OLM'],1,24
+Pokemon,Adventure,276,24 min per ep,7.41,1997,['OLM'],1,24
+Pokemon,Comedy,276,24 min per ep,7.41,1997,['OLM'],1,24
+Pokemon,Fantasy,276,24 min per ep,7.41,1997,['OLM'],1,24
+Bishoujo Senshi Sailor Moon,Romance,46,24 min per ep,7.74,1992,['Toei Animation'],1,24
+InuYasha,Action,167,24 min per ep,7.87,2000,['Sunrise'],7,24
+InuYasha,Adventure,167,24 min per ep,7.87,2000,['Sunrise'],7,24
+InuYasha,Fantasy,167,24 min per ep,7.87,2000,['Sunrise'],7,24
+InuYasha,Romance,167,24 min per ep,7.87,2000,['Sunrise'],7,24
+Death Note,Supernatural,37,23 min per ep,8.62,2006,['Madhouse'],2,23
+Death Note,Suspense,37,23 min per ep,8.62,2006,['Madhouse'],2,23
+Kakegurui,Drama,12,24 min per ep,7.22,2017,['MAPPA'],1,24
+Kakegurui,Mystery,12,24 min per ep,7.22,2017,['MAPPA'],1,24
+Kakegurui,Suspense,12,24 min per ep,7.22,2017,['MAPPA'],1,24
+Hunter x Hunter (2011),Action,148,23 min per ep,9.03,2011,['Madhouse'],2,23
+Hunter x Hunter (2011),Adventure,148,23 min per ep,9.03,2011,['Madhouse'],2,23
+Hunter x Hunter (2011),Fantasy,148,23 min per ep,9.03,2011,['Madhouse'],2,23
+Hunter x Hunter Movie 2: The Last Mission,Action,1,1 hr 37 min,7.28,2013,['Madhouse'],1,97
+Hunter x Hunter Movie 2: The Last Mission,Adventure,1,1 hr 37 min,7.28,2013,['Madhouse'],1,97
+Hunter x Hunter Movie 2: The Last Mission,Fantasy,1,1 hr 37 min,7.28,2013,['Madhouse'],1,97
+Hunter x Hunter Movie 1: Phantom Rouge,Action,1,1 hr 36 min,7.28,2013,['Madhouse'],1,96
+Hunter x Hunter Movie 1: Phantom Rouge,Adventure,1,1 hr 36 min,7.28,2013,['Madhouse'],1,96
+Hunter x Hunter Movie 1: Phantom Rouge,Fantasy,1,1 hr 36 min,7.28,2013,['Madhouse'],1,96
+Shingeki no Kyojin,Action,25,24 min per ep,8.56,2013,['Wit Studio'],2,24
+Shingeki no Kyojin,Award Winning,25,24 min per ep,8.56,2013,['Wit Studio'],2,24
+Shingeki no Kyojin,Drama,25,24 min per ep,8.56,2013,['Wit Studio'],2,24
+Shingeki no Kyojin,Suspense,25,24 min per ep,8.56,2013,['Wit Studio'],2,24
+Yakusoku no Neverland,Mystery,12,22 min per ep,8.48,2019,['CloverWorks'],1,22
+Yakusoku no Neverland,Suspense,12,22 min per ep,8.48,2019,['CloverWorks'],1,22
+Kimetsu no Yaiba,Action,26,23 min per ep,8.43,2019,['ufotable'],1,23
+Kimetsu no Yaiba,Award Winning,26,23 min per ep,8.43,2019,['ufotable'],1,23
+Kimetsu no Yaiba,Supernatural,26,23 min per ep,8.43,2019,['ufotable'],1,23
+Hanyou no Yashahime: Sengoku Otogizoushi,Action,24,24 min per ep,6.69,2020,['Sunrise'],1,24
+Hanyou no Yashahime: Sengoku Otogizoushi,Adventure,24,24 min per ep,6.69,2020,['Sunrise'],1,24
+Hanyou no Yashahime: Sengoku Otogizoushi,Fantasy,24,24 min per ep,6.69,2020,['Sunrise'],1,24
+Evangelion: 3.0 (-46h),Sci-Fi,1,10 min,7.16,2021,['Khara'],2,10
+Boku no Hero Academia,Action,13,24 min per ep,7.84,2016,['Bones'],1,24
+Dr. Stone,Adventure,24,24 min per ep,8.26,2019,['TMS Entertainment'],2,24
+Dr. Stone,Comedy,24,24 min per ep,8.26,2019,['TMS Entertainment'],2,24
+Dr. Stone,Sci-Fi,24,24 min per ep,8.26,2019,['TMS Entertainment'],2,24
+Jujutsu Kaisen,Action,24,23 min per ep,8.55,2020,['MAPPA'],2,23
+Jujutsu Kaisen,Award Winning,24,23 min per ep,8.55,2020,['MAPPA'],2,23
+Jujutsu Kaisen,Supernatural,24,23 min per ep,8.55,2020,['MAPPA'],2,23
+Shigatsu wa Kimi no Uso,Drama,22,22 min per ep,8.64,2014,['A-1 Pictures'],3,22
+Shigatsu wa Kimi no Uso,Romance,22,22 min per ep,8.64,2014,['A-1 Pictures'],3,22
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,Comedy,12,25 min per ep,8.4,2019,['A-1 Pictures'],2,25
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,Romance,12,25 min per ep,8.4,2019,['A-1 Pictures'],2,25
+Horimiya,Romance,13,23 min per ep,8.19,2021,['CloverWorks'],2,23
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,Drama,13,24 min per ep,8.23,2018,['CloverWorks'],3,24
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,Romance,13,24 min per ep,8.23,2018,['CloverWorks'],3,24
+Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,Supernatural,13,24 min per ep,8.23,2018,['CloverWorks'],3,24
+Tonikaku Kawaii,Comedy,12,23 min per ep,7.85,2020,['Seven Arcs'],1,23
+Tonikaku Kawaii,Romance,12,23 min per ep,7.85,2020,['Seven Arcs'],1,23
+Koe no Katachi,Award Winning,1,2 hr 10 min,8.93,2016,['Kyoto Animation'],2,130
+Koe no Katachi,Drama,1,2 hr 10 min,8.93,2016,['Kyoto Animation'],2,130
+Kimi no Na wa.,Award Winning,1,1 hr 46 min,8.83,2018,['CoMix Wave Films'],3,106
+Kimi no Na wa.,Drama,1,1 hr 46 min,8.83,2018,['CoMix Wave Films'],3,106
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e,Drama,12,24 min per ep,7.85,2017,['Lerche'],1,24
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e,Suspense,12,24 min per ep,7.85,2017,['Lerche'],1,24
+Mahoutsukai no Yome,Drama,24,24 min per ep,8.05,2017,['Wit Studio'],2,24
+Mahoutsukai no Yome,Fantasy,24,24 min per ep,8.05,2017,['Wit Studio'],2,24
+Mahoutsukai no Yome,Romance,24,24 min per ep,8.05,2017,['Wit Studio'],2,24
+Tensei shitara Slime Datta Ken,Action,24,23 min per ep,8.14,2018,['8bit'],1,23
+Tensei shitara Slime Datta Ken,Comedy,24,23 min per ep,8.14,2018,['8bit'],1,23
+Tensei shitara Slime Datta Ken,Fantasy,24,23 min per ep,8.14,2018,['8bit'],1,23
+Violet Evergarden,Drama,13,24 min per ep,8.68,2018,['Kyoto Animation'],2,24
+Wotaku ni Koi wa Muzukashii,Comedy,11,22 min per ep,7.92,2018,['A-1 Pictures'],3,22
+Wotaku ni Koi wa Muzukashii,Romance,11,22 min per ep,7.92,2018,['A-1 Pictures'],3,22
+Tsurezure Children,Comedy,12,12 min per ep,7.54,2017,['Studio Gokumi'],1,12
+Tsurezure Children,Romance,12,12 min per ep,7.54,2017,['Studio Gokumi'],1,12
+"Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",Action,12,23 min per ep,6.12,2024,['Studio Polon'],1,23
+"Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",Adventure,12,23 min per ep,6.12,2024,['Studio Polon'],1,23
+"Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",Fantasy,12,23 min per ep,6.12,2024,['Studio Polon'],1,23
+Dororo,Action,24,24 min per ep,8.25,2019,"['Tezuka Productions', 'MAPPA']",2,24
+Dororo,Adventure,24,24 min per ep,8.25,2019,"['Tezuka Productions', 'MAPPA']",2,24
+Dororo,Fantasy,24,24 min per ep,8.25,2019,"['Tezuka Productions', 'MAPPA']",2,24
+"Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",Action,12,23 min per ep,6.85,2023,['SILVER LINK.'],1,23
+"Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",Fantasy,12,23 min per ep,6.85,2023,['SILVER LINK.'],1,23
+Rokudenashi Majutsu Koushi to Akashic Records,Action,12,24 min per ep,7.11,2017,['LIDENFILMS'],1,24
+Rokudenashi Majutsu Koushi to Akashic Records,Fantasy,12,24 min per ep,7.11,2017,['LIDENFILMS'],1,24
+Charlotte,Drama,13,24 min per ep,7.75,2015,['P.A. Works'],1,24
+Akame ga Kill!,Action,24,23 min per ep,7.47,2014,['White Fox'],1,23
+Akame ga Kill!,Fantasy,24,23 min per ep,7.47,2014,['White Fox'],1,23
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,Drama,11,22 min per ep,8.29,2011,['A-1 Pictures'],1,22
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,Supernatural,11,22 min per ep,8.29,2011,['A-1 Pictures'],1,22
+Jaku-Chara Tomozaki-kun,Drama,12,23 min per ep,7.11,2021,['Project No.9'],1,23
+Jaku-Chara Tomozaki-kun,Romance,12,23 min per ep,7.11,2021,['Project No.9'],1,23
+Kuzu no Honkai,Drama,12,22 min per ep,7.09,2017,['Lerche'],1,22
+Kuzu no Honkai,Romance,12,22 min per ep,7.09,2017,['Lerche'],1,22
+Ao Haru Ride,Romance,12,23 min per ep,7.63,2014,['Production I.G'],1,23
+Koi to Yobu ni wa Kimochi Warui,Comedy,12,23 min per ep,7.12,2021,['Nomad'],1,23
+Koi to Yobu ni wa Kimochi Warui,Romance,12,23 min per ep,7.12,2021,['Nomad'],1,23
+Hige wo Soru. Soshite Joshikousei wo Hirou.,Drama,13,23 min per ep,7.27,2021,['Project No.9'],1,23
+Hige wo Soru. Soshite Joshikousei wo Hirou.,Romance,13,23 min per ep,7.27,2021,['Project No.9'],1,23
+Ballroom e Youkoso,Sports,24,24 min per ep,8.18,2017,['Production I.G'],2,24
+Enen no Shouboutai,Action,24,23 min per ep,7.72,2019,['David Production'],1,23
+Enen no Shouboutai,Fantasy,24,23 min per ep,7.72,2019,['David Production'],1,23
+Enen no Shouboutai,Sci-Fi,24,23 min per ep,7.72,2019,['David Production'],1,23
+Enen no Shouboutai: Ni no Shou,Action,24,24 min per ep,7.83,2020,['David Production'],1,24
+Enen no Shouboutai: Ni no Shou,Fantasy,24,24 min per ep,7.83,2020,['David Production'],1,24
+Enen no Shouboutai: Ni no Shou,Sci-Fi,24,24 min per ep,7.83,2020,['David Production'],1,24
+Psycho-Pass,Action,22,23 min per ep,8.33,2012,['Production I.G'],1,23
+Psycho-Pass,Mystery,22,23 min per ep,8.33,2012,['Production I.G'],1,23
+Psycho-Pass,Sci-Fi,22,23 min per ep,8.33,2012,['Production I.G'],1,23
+Psycho-Pass,Suspense,22,23 min per ep,8.33,2012,['Production I.G'],1,23
+ReLIFE,Drama,13,23 min per ep,7.96,2016,['TMS Entertainment'],2,23
+ReLIFE,Romance,13,23 min per ep,7.96,2016,['TMS Entertainment'],2,23
+Yuri!!! on Ice,Award Winning,12,23 min per ep,7.9,2016,['MAPPA'],3,23
+Yuri!!! on Ice,Sports,12,23 min per ep,7.9,2016,['MAPPA'],3,23
+Banana Fish,Action,24,22 min per ep,8.46,2018,['MAPPA'],4,22
+Banana Fish,Adventure,24,22 min per ep,8.46,2018,['MAPPA'],4,22
+Banana Fish,Drama,24,22 min per ep,8.46,2018,['MAPPA'],4,22
+Banana Fish,Suspense,24,22 min per ep,8.46,2018,['MAPPA'],4,22
+Orange,Drama,13,24 min per ep,7.63,2016,['Telecom Animation Film'],2,24
+Orange,Romance,13,24 min per ep,7.63,2016,['Telecom Animation Film'],2,24
+Orange,Sci-Fi,13,24 min per ep,7.63,2016,['Telecom Animation Film'],2,24
+Suki tte Ii na yo.,Drama,13,23 min per ep,7.39,2012,['Zexcs'],1,23
+Suki tte Ii na yo.,Romance,13,23 min per ep,7.39,2012,['Zexcs'],1,23
+Itsudatte Bokura no Koi wa 10 cm Datta.,Drama,6,23 min per ep,7.45,2017,['Lay-duce'],2,23
+Itsudatte Bokura no Koi wa 10 cm Datta.,Romance,6,23 min per ep,7.45,2017,['Lay-duce'],2,23
+Sono Bisque Doll wa Koi wo Suru,Romance,12,23 min per ep,8.15,2022,['CloverWorks'],1,23
+Boku dake ga Inai Machi,Mystery,12,23 min per ep,8.3,2016,['A-1 Pictures'],2,23
+Boku dake ga Inai Machi,Suspense,12,23 min per ep,8.3,2016,['A-1 Pictures'],2,23
+Tonari no Kaibutsu-kun,Comedy,13,24 min per ep,7.45,2012,"[""Brain's Base""]",1,24
+Tonari no Kaibutsu-kun,Romance,13,24 min per ep,7.45,2012,"[""Brain's Base""]",1,24
+Ansatsu Kyoushitsu,Action,22,23 min per ep,8.07,2015,['Lerche'],1,23
+Ansatsu Kyoushitsu,Comedy,22,23 min per ep,8.07,2015,['Lerche'],1,23
+Koroshi Ai,Action,12,23 min per ep,6.9,2022,['Platinum Vision'],1,23
+Koroshi Ai,Romance,12,23 min per ep,6.9,2022,['Platinum Vision'],1,23
+Haikyuu!!,Sports,25,24 min per ep,8.44,2014,['Production I.G'],3,24

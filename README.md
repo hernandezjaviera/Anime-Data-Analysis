@@ -1,7 +1,7 @@
-# 🎌 Anime Data Analysis: A 1,247-Hour Journey
+# 🎌 Anime Data Analysis: A 1,289-Hour Journey
 
 ## 📖 Project Story
-I analyzed **58 anime titles** (totaling **1,247 hours**) to uncover:
+I analyzed **58 anime titles** (totaling **1,289 hours**) to uncover:
 - My genre biases (MAPPA fangirl detected 🕵️)
 - Rewatch patterns (4x ugly-cries for *Your Lie in April*)
 - The shocking truth about filler episodes
